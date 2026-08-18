@@ -1,0 +1,11 @@
+#ramdom number value- 0 to 100
+
+#magic = ramdom.randint(0, 100)
+#while loop mersguess != magic:
+#     input
+#     convert in int
+#     if apka number wo sys ke num ke brabr ke nhi
+#     if magicNum > myguess
+#        low
+#     else
+#        high    
